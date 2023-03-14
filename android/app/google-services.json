@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462605509278",
+    "project_id": "brillotest-1dd72",
+    "storage_bucket": "brillotest-1dd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462605509278:android:f2744e5d26687e0f0d518f",
+        "android_client_info": {
+          "package_name": "com.legittechs.brillotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462605509278-jvc7r6k0i5ajortjl4np1gf631kuv431.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legittechs.brillotest",
+            "certificate_hash": "557ffe773c5725a40117731adf361de9591f338d"
+          }
+        },
+        {
+          "client_id": "462605509278-cg9klbrn2rq7m36tefkl3fo1avb6396v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnc2OWdkoE8AN5F3XkKOd_gfK_D96Fawc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462605509278-cg9klbrn2rq7m36tefkl3fo1avb6396v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
